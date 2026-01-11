@@ -1,0 +1,8 @@
+{
+  "name": "able-space-root",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "postinstall": "npm --prefix frontend ci"
+  }
+}
