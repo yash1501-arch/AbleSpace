@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 .env
 dist
@@ -7,3 +8,14 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .DS_Store
+=======
+node_modules
+.env
+dist
+test_output.txt
+task_test_output.txt
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+>>>>>>> f22d17ef5b289d4a75b28f2b2469000c0f42c372
